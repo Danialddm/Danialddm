@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding with Python, X++. C# and scripting in AI and ML as well.
 - 🌱 I'm currently working in a large holding as a Dynamics AX/365 f&o and Retail POS developer(front & back end)
 - 💞️ I'm looking for a job in the field of development of Dynamics AX/365 f&o or retail pos in an international company.
-- 💞️ I’m looking to collaborate on AI, Ml and DataMining fields as well.
+- 💞️ I’m looking for to collaborate on AI, Ml and DataMining fields as well.
 - 🌱 I’m coding cryptocurrency predicting system using Neural Networks.
 - 📫 Reach me through the email connection: dd.iebs@gmail.com
 
